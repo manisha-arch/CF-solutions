@@ -18,7 +18,7 @@ ll power(ll base, ll exp, ll mod) {
     }
     return res;
 }
-
+ 
 int main() {    
     ios::sync_with_stdio(false);
     cin.tie(nullptr);

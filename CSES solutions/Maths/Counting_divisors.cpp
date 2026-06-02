@@ -22,7 +22,7 @@ int main() {
        while(t--){
         int n;
         cin>>n;
-
+ 
     cout<<divisor[n]<<"\n";
        }
     return 0;
