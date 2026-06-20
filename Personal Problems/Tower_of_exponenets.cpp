@@ -22,7 +22,7 @@ ll power(ll base, ll exp, ll mod) {
     } 
    
 ll towerpow(vector<ll>& tower, int idx ,ll mod){
-    //base case
+   
     if(mod ==1) return 0;
     if(idx==tower.size()-1){
         return tower[idx]%mod;
